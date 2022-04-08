@@ -1,0 +1,12 @@
+pandas
+fiona
+shapely
+pyproj
+rtree
+sodapy
+geopandas
+contextily
+splot
+esda
+spatial_access
+rtree
